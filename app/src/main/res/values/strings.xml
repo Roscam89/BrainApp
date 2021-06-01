@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain app</string>
+    <string name="_30_s">30 s</string>
+    <string name="_5_2">5 + 2</string>
+    <string name="_0_0">0/0</string>
+    <string name="play_again">Play Again</string>
+    <string name="corect">Corect</string>
+</resources>
